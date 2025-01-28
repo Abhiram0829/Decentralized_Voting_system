@@ -9,11 +9,11 @@ Admin panel to manage candidates, set voting dates, and monitor results.
 Intuitive UI for voters to cast votes and view candidate information.
 
 # Requirements
-Node.js (version – 18.14.0)
-Metamask
-Python (version – 3.9)
-FastAPI
-MySQL Database (port – 3306)
+- Node.js (version – 18.14.0)
+- Metamask
+- Python (version – 3.9)
+- FastAPI
+- MySQL Database (port – 3306)
 
 ## Screenshots
 
