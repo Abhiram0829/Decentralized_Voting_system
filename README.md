@@ -1,7 +1,7 @@
 # Decentralized_Voting_system
 The Decentralized Voting System leverages Ethereum blockchain for secure, transparent, and tamper-proof elections. It includes JWT-based voter authentication, an intuitive UI for casting votes, and an admin panel for managing candidates and monitoring results. The system eliminates intermediaries, ensuring a trustless voting process.
 
-# Features
+# FEATURES
 Implements JWT for secure voter authentication and authorization.
 Utilizes Ethereum blockchain for tamper-proof and transparent voting records.
 Removes the need for intermediaries, ensuring a trustless voting process.
