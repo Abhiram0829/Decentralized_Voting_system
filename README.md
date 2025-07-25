@@ -29,7 +29,7 @@ Intuitive UI for voters to cast votes and view candidate information.
 
 2. Clone the repository by using the command
         
-        git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+        git clone [https://github.com/eswaranumothu/Decentralized_Voting_system]
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
